@@ -1,0 +1,15 @@
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.sourcelink.json
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll

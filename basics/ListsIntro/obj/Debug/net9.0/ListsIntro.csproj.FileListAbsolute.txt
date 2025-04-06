@@ -1,0 +1,15 @@
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\bin\Debug\net9.0\ListsIntro.exe
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\bin\Debug\net9.0\ListsIntro.deps.json
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\bin\Debug\net9.0\ListsIntro.runtimeconfig.json
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\bin\Debug\net9.0\ListsIntro.dll
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\bin\Debug\net9.0\ListsIntro.pdb
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\ListsIntro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\ListsIntro.AssemblyInfoInputs.cache
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\ListsIntro.AssemblyInfo.cs
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\ListsIntro.csproj.CoreCompileInputs.cache
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\ListsIntro.sourcelink.json
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\ListsIntro.dll
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\refint\ListsIntro.dll
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\ListsIntro.pdb
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\ListsIntro.genruntimeconfig.cache
+c:\Users\erlen\MyFullstackApp\.NET_Practice\basics\ListsIntro\obj\Debug\net9.0\ref\ListsIntro.dll
