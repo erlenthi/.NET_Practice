@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\ListsIntro\\ListsIntro.csproj": {}
+    "c:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\TypeSystemApp\\TypeSystemApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\ListsIntro\\ListsIntro.csproj": {
+    "c:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\TypeSystemApp\\TypeSystemApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\ListsIntro\\ListsIntro.csproj",
-        "projectName": "ListsIntro",
-        "projectPath": "C:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\ListsIntro\\ListsIntro.csproj",
+        "projectUniqueName": "c:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\TypeSystemApp\\TypeSystemApp.csproj",
+        "projectName": "TypeSystemApp",
+        "projectPath": "c:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\TypeSystemApp\\TypeSystemApp.csproj",
         "packagesPath": "C:\\Users\\erlen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\ListsIntro\\obj\\",
+        "outputPath": "c:\\Users\\erlen\\MyFullstackApp\\.NET_Practice\\basics\\TypeSystemApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erlen\\AppData\\Roaming\\NuGet\\NuGet.Config"
